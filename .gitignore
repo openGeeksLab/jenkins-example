@@ -1,0 +1,11 @@
+# IntelliJ project files
+.idea
+
+# Node.js project files
+node_modules
+npm-debug.log
+
+# Testing artifacts
+checkstyle-result.xml
+test.tap
+coverage
