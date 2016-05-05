@@ -1,5 +1,5 @@
 var test = require('tape');
-var summer = require('../summer');
+var summer = require('../src/summer');
 
 test('summer', function (t) {
     var winter = summer(-40);
